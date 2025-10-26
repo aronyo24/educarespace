@@ -10,9 +10,9 @@ env/
 .mvec/
 
 # Django
-db.sqlite3
-/staticfiles/
-/media/
+# db.sqlite3
+# /staticfiles/
+# /media/
 
 # IDE / OS
 .vscode/
